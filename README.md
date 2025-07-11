@@ -37,18 +37,18 @@ Permite controle de vendas, estoque, clientes, fornecedores, relatórios e muito
 ## 📱 Screenshots
 
 ### 1. Tela Inicial
-<img src="screenshots/tela-inicial.png" width="300"/>
+<img src="screenshots/tela-inicial.png" width="400"/>
 
 ### 2. Cadastro de Clientes
-<img src="screenshots/clientes.png" width="300"/>
-<img src="screenshots/add-clientes.png" width="300"/>
+<img src="screenshots/clientes.png" width="400"/>
+<img src="screenshots/add-clientes.png" width="400"/>
 
 ### 3. Controle de Estoque
-<img src="screenshots/estoque.png" width="300"/>
-<img src="screenshots/add-estoque.png" width="300"/>
+<img src="screenshots/estoque.png" width="400"/>
+<img src="screenshots/add-estoque.png" width="400"/>
 
 ### 4. Relatórios
-<img src="screenshots/relatorios.png" width="300"/>
+<img src="screenshots/relatorios.png" width="400"/>
 
 ---
 
